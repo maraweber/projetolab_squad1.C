@@ -1,1 +1,0 @@
-var oi = prompt('qual é seu nome ')
